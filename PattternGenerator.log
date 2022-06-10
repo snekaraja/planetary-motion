@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  calendarbar.cpp
+  MainFrm.cpp
+  PattternGenerator.cpp
+  PattternGeneratorDoc.cpp
+  PattternGeneratorView.cpp
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(103,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(103,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(103,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(103,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(108,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(108,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(108,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(108,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(209,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(210,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Running Code Analysis for C/C++...
+  Generating Code...
+  PattternGenerator.vcxproj -> C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\x64\Debug\PattternGenerator.exe
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\MainFrm.cpp(44): warning C26495: Variable 'CMainFrame::m_pCurrOutlookWnd' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(48): warning C26495: Variable 'CPattternGeneratorView::m_iCounter' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(212): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(213): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(215): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\PattternGeneratorView.cpp(216): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).

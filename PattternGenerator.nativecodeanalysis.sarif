@@ -1,0 +1,107 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.32.31329.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/elcot/downloads/patterngenerator-master/patterngenerator-master/pattterngenerator.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "dbd9f06035a64d1a99bda46d7f3a7d2a7a5d5728b8cfae831dceeeae8c301083"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/elcot/downloads/patterngenerator-master/patterngenerator-master/pch.h"
+          },
+          "hashes": {
+            "sha-256": "ae8edb9ed44e84db3a64ff02bb4e053d661dc19474d8e284bda1c4d625744a0b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/elcot/downloads/patterngenerator-master/patterngenerator-master/framework.h"
+          },
+          "hashes": {
+            "sha-256": "84e80f5bb1094c5078f430f5acfd511235b46b45b850ee32d2c75b6da575845f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/elcot/downloads/patterngenerator-master/patterngenerator-master/targetver.h"
+          },
+          "hashes": {
+            "sha-256": "2d9fc0f1b808bb90c4c7b154736f4b40d2c85bcca2a0792af18ff69219f1b7b0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/elcot/downloads/patterngenerator-master/patterngenerator-master/pattterngenerator.h"
+          },
+          "hashes": {
+            "sha-256": "4c2d7ca18624d9d393dc31220bedad519772e41f7157ff8351231f083a04ebe6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/elcot/downloads/patterngenerator-master/patterngenerator-master/resource.h"
+          },
+          "hashes": {
+            "sha-256": "19489d00fa71ed2d3283d426f1fd3ad0de603b795ec748dedd0e2e9d057955bb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/elcot/downloads/patterngenerator-master/patterngenerator-master/mainfrm.h"
+          },
+          "hashes": {
+            "sha-256": "680e3bc36ddf798ac0264c4cb5fd19a2c7ee9923e0ed7b5e6c3c7b67031e1c08"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/elcot/downloads/patterngenerator-master/patterngenerator-master/calendarbar.h"
+          },
+          "hashes": {
+            "sha-256": "fdb1d5e2e7cb0e41467891071a14d9e9912059a4a3402917d33d21664eeb5716"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/elcot/downloads/patterngenerator-master/patterngenerator-master/pattterngeneratordoc.h"
+          },
+          "hashes": {
+            "sha-256": "1eded50bc7d2c58df0d5b0acc5afc3953f1277b335972358b2a335b3b78dcb9e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/elcot/downloads/patterngenerator-master/patterngenerator-master/pattterngeneratorview.h"
+          },
+          "hashes": {
+            "sha-256": "7e45c08a3b34db845239e8d4be88fc39d64203ba70c6de48bd3e4463efdcc72d"
+          }
+        }
+      ]
+    }
+  ]
+}

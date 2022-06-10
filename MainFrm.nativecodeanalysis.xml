@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\</FILEPATH>
+      <FILENAME>MainFrm.cpp</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'CMainFrame::m_pCurrOutlookWnd' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>CMainFrame::{ctor}</FUNCTION>
+    <DECORATED>??0CMainFrame@@IEAA@XZ</DECORATED>
+    <FUNCLINE>44</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CMainFrame::m_pCurrOutlookWnd</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ELCOT\Downloads\PatternGenerator-master\PatternGenerator-master\</FILEPATH>
+      <FILENAME>MainFrm.cpp</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'CMainFrame::m_pCurrOutlookPage' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>CMainFrame::{ctor}</FUNCTION>
+    <DECORATED>??0CMainFrame@@IEAA@XZ</DECORATED>
+    <FUNCLINE>44</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CMainFrame::m_pCurrOutlookPage</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
